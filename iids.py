@@ -56,4 +56,5 @@ if __name__ == "__main__":
     signal.signal(signal.SIGINT, keyboardInterruptHandler) # Activa un handler que se activa con un ctrl+C
     main()
 
-#add: b111e83621cd791c672853cf0d082e22131ad129fadd8e1c9dde03e958c74ff2
+#El autor es Alberto Rafael Rodríguez Iglesias
+#fc2029102a9bfad976b59f0ee443b1eb030557033b6710554f458972dd8d132d 
